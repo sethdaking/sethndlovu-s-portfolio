@@ -24,17 +24,17 @@ import WorkSliderBtns from '@/components/WorkSliderBtns';
 const projects = [
   {
     num: '01',
-    category: 'frontend',
-    title: 'project 1',
-    description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. At officia explicabo vel quae officiis tempore deleniti exercitationem ex quas ab quasi, suscipit ullam laudantium. Tenetur rem in eum voluptate perspiciatis.',
+    category: 'Frontend Project',
+    title: 'algoViz',
+    description: 'To visualize algorithms like sorting, searching, pathfinding, and graph algorithms (e.g., Dijkstra’s, A*).',
     stack: [
-      {name: 'Html 5'},
-      {name: 'CSS 3'},
-      {name: 'JavaScript'},
+      {name: 'NextJS'},
+      {name: 'Tailwindcss'},
+      {name: 'React'},
     ],
-    image: '/assets/assets/work/thumb1.png',
-    live: '',
-    github: '',
+    image: '/assets/assets/work/thumb1.jpg',
+    live: 'https://algo-viz-eight.vercel.app/',
+    github: 'https://github.com/sethdaking/algo-viz',
   },
   {
     num: '02',
