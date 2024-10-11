@@ -32,38 +32,11 @@ const projects = [
       {name: 'Tailwindcss'},
       {name: 'React'},
     ],
-    image: '/assets/assets/work/thumb1.jpg',
+    image: '/assets/assets/work/thumb1.png',
     live: 'https://algo-viz-eight.vercel.app/',
     github: 'https://github.com/sethdaking/algo-viz',
   },
-  {
-    num: '02',
-    category: 'fullstack',
-    title: 'project 2',
-    description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. At officia explicabo vel quae officiis tempore deleniti exercitationem ex quas ab quasi, suscipit ullam laudantium. Tenetur rem in eum voluptate perspiciatis.',
-    stack: [
-      {name: 'Next.js'},
-      {name: 'Tailwindcss'},
-      {name: 'NodeJs'},
-    ],
-    image: '/assets/assets/work/thumb2.png',
-    live: '',
-    github: '',
-  },
-  {
-    num: '03',
-    category: 'frontend',
-    title: 'project 3',
-    description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. At officia explicabo vel quae officiis tempore deleniti exercitationem ex quas ab quasi, suscipit ullam laudantium. Tenetur rem in eum voluptate perspiciatis.',
-    stack: [
-      {name: 'NextJS'},
-      {name: 'Tailwindcss'},
-      {name: 'NodeJS'},
-    ],
-    image: '/assets/assets/work/thumb3.png',
-    live: '',
-    github: '',
-  },
+
 ];
 
 
